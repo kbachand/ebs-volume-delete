@@ -3,7 +3,7 @@ A basic Python script that will list and delete orphaned EBS volumes in AWS.
 
 ## Setup
 Follow the steps to get setup to utilize this script
-* `git clone my-repo`
+* `git clone https://github.com/kbachand/ebs-volume-delete.git`
 * `cd ebs-orphan-volume-delete`
 
 ## Script Usage
