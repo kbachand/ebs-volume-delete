@@ -73,7 +73,7 @@ def delete(args):
         except Exception as e:
             print("Error in process with error being: " + str(e))
     else:
-     print("No snapshots deleted")
+     print("No volumes deleted")
 
 # Simple if statement to output the total deleted and total errors if any
 if len(total_errors) > 0:
